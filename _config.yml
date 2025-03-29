@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profiles.png"
   name             : "Qing Dong"
   pronouns         : "she/her"
   bio              : "Researcher in artificial intelligence and computer vision, with peer-reviewed publications in  international journals. Areas of interest include object detection, multimodal learning, and unsupervised representation learning."
