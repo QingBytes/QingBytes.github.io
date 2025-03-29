@@ -9,14 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Qing Dong / Academic Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Qing Dong"
+description              : &description "AI and computer vision researcher at Northeastern University"
 url                      : #https://qingbytes.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +26,7 @@ author:
   # Biographic information
   avatar           : "profiles.png"
   name             : "Qing Dong"
-  pronouns         : "she/her"
+  pronouns         : "her"
   bio              : "Researcher in artificial intelligence and computer vision, with peer-reviewed publications in  international journals. Areas of interest include object detection, multimodal learning, and unsupervised representation learning."
   location         : "Shenyang, China"
   employer         : "Northeastern University, School of Computer Science and Engineering"
