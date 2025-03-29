@@ -20,11 +20,11 @@ Key Laboratory of Intelligent Computing in Medical Image, Ministry of Education
 
 Qing Dong is currently conducting research at the School of Computer Science, Northeastern University (China), and is affiliated with the Key Laboratory of Intelligent Computing in Medical Image, Ministry of Education. She previously participated in a joint research program at the Shenyang Institute of Automation, Chinese Academy of Sciences.
 
-Her research interests include artificial intelligence, computer vision, and object detection, with a particular focus on **multimodal object detection**, **few-shot/zero-shot object detection**, and **unsupervised/self-supervised object detection**.
+His research interests include artificial intelligence, computer vision, and object detection, with a particular focus on **multimodal object detection**, **few-shot/zero-shot object detection**, and **unsupervised/self-supervised object detection**.
 
-She has published several papers in international journals such as *Agriculture*, *IEEE Transactions on Instrumentation and Measurement*, and *Sensors*. Her representative work “PestLite: A Novel YOLO-Based Deep Learning Technique for Crop Pest Detection” is recognized as an **ESI Highly Cited Paper**.
+He has published several papers in international journals such as *Agriculture*, *IEEE Transactions on Instrumentation and Measurement*, and *Sensors*. Her representative work “PestLite: A Novel YOLO-Based Deep Learning Technique for Crop Pest Detection” is recognized as an **ESI Highly Cited Paper**.
 
-She also serves as a reviewer for journals including *Remote Sensing* and *Sensors*.
+He also serves as a reviewer for journals including *Remote Sensing* and *Sensors*.
 
 ---
 
