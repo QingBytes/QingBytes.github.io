@@ -53,21 +53,36 @@ He also serves as a reviewer for journals including *Remote Sensing* and *Sensor
 School of Computer Science, Northeastern University  
 Focus areas: computer vision, artificial intelligence, object detection, and medical image segmentation.
 
----
+
 
 ## 📄 Selected Publications
 
 1. **PestLite: A Novel YOLO-Based Deep Learning Technique for Crop Pest Detection**  
-   *Agriculture*, 2024. DOI: [10.3390/agriculture14020228](https://doi.org/10.3390/agriculture14020228)  
-   _ESI Highly Cited Paper_
+   *Journal:* **Agriculture**, 2024  
+   📈 **JCR Q1 (2024)** | **CAS Zone 2** | 🏆 *ESI Highly Cited Paper*  
+   🔗 [DOI: 10.3390/agriculture14020228](https://doi.org/10.3390/agriculture14020228)  
 
 2. **BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection**  
-   *IEEE Transactions on Instrumentation and Measurement*, 2024. DOI: [10.1109/TIM.2024.3472791](https://doi.org/10.1109/TIM.2024.3472791)
+   *Journal:* **IEEE Transactions on Instrumentation and Measurement**, 2024  
+   📈 **JCR Q1 (2024)** | **CAS Zone 2 TOP**  
+   🔗 [DOI: 10.1109/TIM.2024.3472791](https://doi.org/10.1109/TIM.2024.3472791)  
 
 3. **SenseLite: A YOLO-Based Lightweight Model for Small Object Detection in Aerial Imagery**  
-   *Sensors*, 2023. DOI: [10.3390/s23198118](https://doi.org/10.3390/s23198118)
+   *Journal:* **Sensors**, 2023  
+   📈 **JCR Q2 (2023)** | **CAS Zone 3**  
+   🔗 [DOI: 10.3390/s23198118](https://doi.org/10.3390/s23198118)  
+4. **RSNet: Compact-Align Detection Head Embedded Lightweight Network for Small Object Detection in Remote Sensing**  
+   *Journal:* **Remote Sensing**, 2025  
+   📈 **JCR Q1 (2025)** | **CAS Zone 2**  | **CAAI B** 
+   🔗 [DOI: 10.3390/rs17121965](https://doi.org/10.3390/rs17121965)  
+   👥 *Authors:* Qing Dong, Tianxin Han, Gang Wu, Baiyou Qiao, Lina Sun
 
----
+5. **A Registration Method for Historical Maps Based on Self-Supervised Feature Matching**  
+   *Journal:* **Applied Sciences**, 2025  
+   📈 **JCR Q1 (2025)**
+   🔗 [DOI: 10.3390/app15031472](https://doi.org/10.3390/app15031472)  
+   👥 *Authors:* Zikang Qin, Yumin Feng, Gang Wu, Qing Dong, Tianxin Han
+
 
 ## 🧾 Academic Service
 
